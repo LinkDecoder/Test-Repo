@@ -7,3 +7,4 @@ dir([1,2,[1,2]])
 
 print(a)
 
+print('B')
